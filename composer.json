@@ -1,5 +1,5 @@
 {
-    "name": "aoe/linkhandler",
+    "name": "cron/linkhandler",
     "description": "Linkhandler Extension.",
     "type": "typo3-cms-extension",
     "homepage": "",
